@@ -1,0 +1,122 @@
+body {
+
+margin: 10;
+
+background-color: #87CEEB;
+
+margin-top: 50px;
+
+}
+
+
+
+ 
+.disabled {
+	pointer-events:none
+}
+
+.codebutton {
+height:100px;
+width:250px;
+}
+
+header {
+
+display: flex;
+
+position: fixed;
+
+top: 0;
+
+left: 0;
+
+right: 0;
+
+height: 50px;
+
+line-height: 50px;
+
+background-color: #808080;
+
+}
+
+ 
+
+header * {
+
+display: inline;
+
+height: 50px;
+
+}
+
+ 
+
+headerul {
+
+padding: 0;
+
+}
+
+ 
+
+header li {
+
+margin-left: 20px;
+
+}
+
+* {
+  font-family: Helvetica, Arial, sans-serif;
+}
+ 
+ 
+h1 {
+  color: Purple;
+}
+ 
+ 
+p, 
+li {
+  font-size: 16px;
+}
+ 
+ 
+a {
+  text-decoration: none;
+}
+ 
+
+section {
+
+height: 15vh;
+
+border: 1px solid black;
+
+display: flex;
+
+justify-content: center;
+
+align-items: center;
+
+text-align: center;
+
+}
+
+ 
+
+#hero .profile-img {
+
+width: 300px;
+
+}
+
+ 
+
+footer {
+
+text-align: center;
+
+padding: 20px;
+
+}
